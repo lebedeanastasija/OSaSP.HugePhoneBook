@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  delimstrings.cpp
+  Generating Code...
+     Creating library D:\BSUIR\sem_5\OSISP\PhoneBookBigDb\osisp_laba4\Debug\PhoneDB.lib and object D:\BSUIR\sem_5\OSISP\PhoneBookBigDb\osisp_laba4\Debug\PhoneDB.exp
+  PhoneDB.vcxproj -> D:\BSUIR\sem_5\OSISP\PhoneBookBigDb\osisp_laba4\Debug\PhoneDB.dll
+  PhoneDB.vcxproj -> D:\BSUIR\sem_5\OSISP\PhoneBookBigDb\osisp_laba4\Debug\PhoneDB.pdb (Partial PDB)
